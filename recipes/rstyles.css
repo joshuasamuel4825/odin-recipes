@@ -1,0 +1,32 @@
+h1{
+font-family: monospace;
+font-size: 45px;
+color: springgreen;
+text-align: center;
+background-color: black;
+}
+h2{
+
+    font-family: sans-serif;
+    font-size: 36px;
+    color: floralwhite;
+    font-weight: bold;
+    background-color: black;
+}
+h3{
+    font-family: serif;
+    font-size: 24px;
+    color:crimson;
+    
+}
+ul{
+font-size: 24px;
+font-style: italic;
+color: indigo;
+}
+
+ol{
+font-size: 24px;
+font-style: italic;
+color: mediumblue;
+}

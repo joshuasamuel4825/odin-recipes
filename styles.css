@@ -1,0 +1,14 @@
+
+.piz,.chick,.cheese{
+font-family: 'Times New Roman', Times, serif;
+font-weight: bold;
+font-size: 36px;
+color: hotpink;
+background-color: indigo;
+}
+
+.homehead{
+text-align: center;
+font-size: 45px;
+color: steelblue;
+}
